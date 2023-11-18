@@ -4,15 +4,15 @@
 <h2 align="center">Funcionalidades</h2>
 Registro de transações entre cliente e vendedor.
 Atualização automática dos saldos após cada transação.
-Interface gráfica para facilitar a interação e visualização dos saldos.</br></br></br></br>
+Interface gráfica para facilitar a interação e visualização dos saldos.</br></br>
 
 🛠️ <b>Tecnologias Utilizadas</b></br>
 Python
 Tkinter (para a interface gráfica)
-JSON (para armazenamento dos saldos)</br></br></br></br>
+JSON (para armazenamento dos saldos)</br></br>
 
 🤝 <b>Contribuindo</b></br>
-Sinta-se à vontade para contribuir com este projeto, criando novos recursos ou modificando seu layout.</br></br></br></br>
+Sinta-se à vontade para contribuir com este projeto, criando novos recursos ou modificando seu layout.</br></br>
 
 <b>Linguagens e Ferramentas utilizadas:</b></br>
 <p>
