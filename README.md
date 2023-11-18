@@ -15,7 +15,11 @@ JSON (para armazenamento dos saldos)
 Sinta-se à vontade para contribuir com este projeto, criando novos recursos ou modificando seu layout.
 
 <b>Linguagens e Ferramentas utilizadas:</b></br>
-<a href="https://www.python.org"></br>
-<img src="https://cdn-icons-png.flaticon.com/512/1822/1822899.png" width="40"></a>
-<a href="https://www.json.org/json-en.html"></br>
-<img src="https://cdn-icons-png.flaticon.com/512/460/460989.png" width="40"></a>
+<p>
+  <a href="https://www.python.org">
+    <img src="https://cdn-icons-png.flaticon.com/512/1822/1822899.png" alt="Python Logo" width="40">
+  </a>
+  <a href="https://www.json.org/json-en.html">
+    <img src="https://cdn-icons-png.flaticon.com/512/460/460989.png" alt="JSON Logo" width="40">
+  </a>
+</p>
